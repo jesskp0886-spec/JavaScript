@@ -127,7 +127,8 @@ The application adapts to:
 👉 Live Project:
 
 Deployment Link Here
-[
+
+
 https://video-auw1qg371-jesskp0886-specs-projects.vercel.app
 
 ---
