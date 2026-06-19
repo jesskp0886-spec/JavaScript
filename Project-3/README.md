@@ -145,7 +145,7 @@ https://drive.google.com/file/d/16peN8P3bf6Wojzg-yLDYYBSZ-m5mq_-9/view?usp=shari
 
 ## 🔹 Screenshots
 
-![Live Demo Screenshot](Project-3/laptop-size-output.png)
+![Live Demo Screenshot]([Project-3/laptop-size-output.png](https://github.com/jesskp0886-spec/JavaScript/blob/43c53018ac55561252027fd1202e562e634c06bd/Project-3/laptop-size-output.png))
 
 🔹 Project Structure
 
