@@ -126,11 +126,9 @@ The application adapts to:
 
 👉 Live Project:
 
-Add Your Deployment Link Here
+Deployment Link Here
 
-Example:
-
-file:///D:/Fullstack%20Development/JavaScript/Projects/Project-3/index.html
+video-eight-orpin.vercel.app
 
 ---
 
@@ -140,23 +138,13 @@ file:///D:/Fullstack%20Development/JavaScript/Projects/Project-3/index.html
 
 Add Your Video Link Here
 
+https://drive.google.com/file/d/16peN8P3bf6Wojzg-yLDYYBSZ-m5mq_-9/view?usp=sharing
+
 ---
 
 ## 🔹 Screenshots
 
-### Countdown Screen
 
-Add Screenshot Here
-
-### Quote Slider Screen
-
-Add Screenshot Here
-
- Mobile View
-
-Add Screenshot Here
-
----
 
 🔹 Project Structure
 
