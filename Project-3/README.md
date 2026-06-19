@@ -127,8 +127,8 @@ The application adapts to:
 👉 Live Project:
 
 Deployment Link Here
-
-video-eight-orpin.vercel.app
+[
+https://video-auw1qg371-jesskp0886-specs-projects.vercel.app
 
 ---
 
