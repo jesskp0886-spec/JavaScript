@@ -82,8 +82,19 @@ Watch the complete project demonstration and explanation.
 
 🏠 Start Screen
 
-
 ![Project-4/Output/img-1.png](https://github.com/jesskp0886-spec/JavaScript/blob/0f512a4af23a49f53db9a906a0dee776c055591b/Project-4/Output/img-1.png)
+
+✅ Correct Answer / ❌ Wrong Answer
+
+![Project-4/Output/img-2.png](https://github.com/jesskp0886-spec/JavaScript/blob/312c4b2d40b09bc5fcf216256161537642881771/Project-4/Output/img-2.png)
+
+🚨 Alert Message Popup
+
+![Project-4/Output/img-3.png](https://github.com/jesskp0886-spec/JavaScript/blob/312c4b2d40b09bc5fcf216256161537642881771/Project-4/Output/img-3.png)
+
+🏆 Result Screen
+
+![Project-4/Output/img-4.png](https://github.com/jesskp0886-spec/JavaScript/blob/312c4b2d40b09bc5fcf216256161537642881771/Project-4/Output/img-4.png)
 
 🔄 Project Workflow
 
