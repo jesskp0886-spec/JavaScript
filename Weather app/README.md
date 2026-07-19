@@ -44,10 +44,7 @@ Weather-App/
 ├── script-1.js
 ├── README.md
 └── screenshots/
-    ├── home.png
-    ├── weather-details.png
-    ├── forecast.png
-    └── mobile-view.png
+  
 ```
 
 ---
@@ -62,5 +59,7 @@ Weather-App/
 
 ## 📸 Screenshots
 
+
+![Weather app/Output.png](https://github.com/jesskp0886-spec/JavaScript/blob/312c4b2d40b09bc5fcf216256161537642881771/Project-4/Output/img-4.png)
 
 
