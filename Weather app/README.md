@@ -51,7 +51,7 @@ Weather-App/
 
 ## 🚀 Live Demo
 
-
+https://drive.google.com/file/d/1kZhHtXBZSpXGt5Hn4sNMXUe8IDtTQDGs/view?usp=sharing
 
 ## 🎥 Code Explanation Video
 
@@ -59,7 +59,6 @@ Weather-App/
 
 ## 📸 Screenshots
 
-
-![Weather app/Output.png](https://github.com/jesskp0886-spec/JavaScript/blob/312c4b2d40b09bc5fcf216256161537642881771/Project-4/Output/img-4.png)
+![Weather app/Output.png](https://github.com/jesskp0886-spec/JavaScript/blob/8870bf8a8743eeaf3f611c4868bb88089fabb209/Weather%20app/Output.png)
 
 
