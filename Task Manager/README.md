@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1NQSeoiJw_a1u-sAsmDvsuI35s15MoJRa/view?usp=shari
 
 | Full Page |
 
-| ![Task Manager/Full Page.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Task%20From.png) |
+| ![Task Manager/Full Page.png](https://github.com/jesskp0886-spec/JavaScript/blob/ca3fe0b7430b586a17a0bb8ded991db078ae8b79/Task%20Manager/Full%20Page.png) |
 
 | Task Form | 
 
