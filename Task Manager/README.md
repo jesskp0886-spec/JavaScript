@@ -10,19 +10,19 @@ https://drive.google.com/file/d/1NQSeoiJw_a1u-sAsmDvsuI35s15MoJRa/view?usp=shari
 
 | Task Form | 
 
-| ![Task Manager/Task From.png](./screenshots/task-form.png) |
+| ![Task Manager/Task From.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Filter.png) |
 
 | Task List |
 
-| ![Task Manager/Task List.png](./screenshots/task-form.png) |
+| ![Task Manager/Task List.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Overdue%20Task.png) |
 
 | Overdue Task | 
 
-| ![Task Manager/Overdue Task.png](./screenshots/task-form.png) | 
+| ![Task Manager/Overdue Task.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Task%20From.png) | 
 
 | Search & Filter |
 
-| ![Task Manager/Filter.png](./screenshots/task-form.png) | 
+| ![Task Manager/Filter.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Task%20List.png) | 
 
 
 > Replace the placeholder images above with your own screenshots. Save them inside a `screenshots/` folder in the project root, using the same filenames (or update the paths accordingly).
