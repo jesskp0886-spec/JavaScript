@@ -8,6 +8,10 @@ https://drive.google.com/file/d/1NQSeoiJw_a1u-sAsmDvsuI35s15MoJRa/view?usp=shari
 
 ## Screenshots
 
+| Full Page |
+
+| ![Task Manager/Full Page.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Task%20From.png) |
+
 | Task Form | 
 
 | ![Task Manager/Task From.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Task%20From.png) |
@@ -24,8 +28,6 @@ https://drive.google.com/file/d/1NQSeoiJw_a1u-sAsmDvsuI35s15MoJRa/view?usp=shari
 
 | ![Task Manager/Filter.png](https://github.com/jesskp0886-spec/JavaScript/blob/f145a31b568063222deed1ef1e3e766929a93ba5/Task%20Manager/Filter.png) | 
 
-
-> Replace the placeholder images above with your own screenshots. Save them inside a `screenshots/` folder in the project root, using the same filenames (or update the paths accordingly).
 
 ## Features
 
