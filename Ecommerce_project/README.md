@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1CeYMOJAwK0aIEojLxUtT1Q1MHYJasirV/view?usp=shari
 
 ->> 📸 Output Preview
 
-![Ecommerce_project/Output.png]([assets/images/screenshot.png](https://github.com/jesskp0886-spec/JavaScript/blob/0447f54b58bd6bec804b0d886db999f70d756cbe/Ecommerce_project/Output.png))
+![Ecommerce_project/Output.png](https://github.com/jesskp0886-spec/JavaScript/blob/0447f54b58bd6bec804b0d886db999f70d756cbe/Ecommerce_project/Output.png)
 
 ->> Features
 
